@@ -20,13 +20,13 @@ pkg install python 2 -y
 
 pkg install git -y
 
-git clone https://github.com/FEBRIADYSITORUS/MBF.git
+git clone https://github.com/ady08/Autombf.zip
 
 pip2 install mechanize
 
-cd MBF
+cd Autombf.zip
 
-python2 MBF.py
+python2 leus.py
 
 # Disclaimer:
 I just want to say that do not use this tool for illegal purpose
